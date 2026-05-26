@@ -23,6 +23,8 @@ A Python program that prints a right-angled star triangle using nested loops.
 - ### Pyramid Pattern
 A Python program that prints a centered pyramid star pattern using nested loops and spacing logic.
 - Diamond Pattern
+- ### Diamond Pattern
+A Python program that prints a diamond-shaped star pattern using nested loops and spacing logic.
 
 ### Arrays
 - Largest Element
