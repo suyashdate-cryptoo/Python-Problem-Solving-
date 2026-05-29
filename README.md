@@ -33,8 +33,11 @@ A Python program that finds the largest element from an array using loops and co
 - Second Largest Element
 - ### Second Largest Element in Array
 A Python program that finds the second largest element from an array using comparison logic and loops.
+- Array Sum
+- ### Array Sum
+A Python program that calculates the sum of all elements in an array using loops.
 - Reverse Array
-
+- 
 ### Searching Algorithms
 - Linear Search
 - Binary Search
